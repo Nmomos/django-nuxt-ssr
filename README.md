@@ -2,7 +2,7 @@
 Django + Vue.js + Nuxt.js でSSRアプリを作る
 ![title](https://github.com/mila411/django-nuxt-ssr/blob/master/title.png)
 
-[Django + Vue.js + Nuxt.js でSSRアプリを作る](hhttps://nmomos.com/tips/2020/01/16/django-vue-nuxt-ssr/ "Django + Vue.js + Nuxt.js でSSRアプリを作る")
+[Django + Vue.js + Nuxt.js でSSRアプリを作る](https://nmomos.com/tips/2020/01/16/django-vue-nuxt-ssr/ "Django + Vue.js + Nuxt.js でSSRアプリを作る")
 
 # 実行方法
 ## 1. リポジトリのクローン
